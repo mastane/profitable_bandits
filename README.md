@@ -1,1 +1,1 @@
-# profitable_bandits
+# profitable_bandits (forked from pyBandits)
